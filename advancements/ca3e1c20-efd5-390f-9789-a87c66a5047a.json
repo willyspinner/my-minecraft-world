@@ -1,7 +1,37 @@
 {
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2022-07-03 01:45:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-03 06:01:57 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-07-03 04:52:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
     },
     "done": true
   },
@@ -35,21 +65,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2022-07-03 01:58:16 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/chest_minecart": {
+  "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
-      "has_minecart": "2022-07-03 01:52:13 -0700"
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2022-07-03 04:25:55 -0700"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2022-07-03 01:48:01 -0700",
+      "minecraft:mountains": "2022-07-03 02:41:22 -0700",
       "minecraft:taiga": "2022-07-03 01:46:29 -0700",
       "minecraft:beach": "2022-07-03 01:51:47 -0700",
       "minecraft:river": "2022-07-03 01:51:57 -0700",
@@ -57,6 +106,12 @@
       "minecraft:plains": "2022-07-03 01:45:26 -0700"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-07-03 01:52:13 -0700"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
@@ -67,6 +122,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-07-03 01:49:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-07-03 05:57:36 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
@@ -82,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2022-07-03 05:17:30 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2022-07-03 01:58:16 -0700"
@@ -94,9 +173,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
+  "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
-      "has_minecart": "2022-07-03 01:52:13 -0700"
+      "has_redstone": "2022-07-03 05:51:41 -0700"
     },
     "done": true
   },
@@ -106,21 +185,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-07-03 01:52:13 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-07-03 01:56:45 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2022-07-03 01:58:16 -0700"
-    },
-    "done": true
-  },
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2022-07-03 01:45:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-07-03 01:58:16 -0700"
     },
     "done": true
   },
@@ -142,6 +227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2022-07-03 05:17:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2022-07-03 01:45:26 -0700"
@@ -160,6 +257,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2022-07-03 01:58:16 -0700"
@@ -172,15 +281,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
-      "has_stone": "2022-07-03 01:58:16 -0700"
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2022-07-03 01:56:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2022-07-03 01:58:16 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
@@ -202,9 +323,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-07-03 05:55:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2022-07-03 01:45:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
@@ -220,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-07-03 01:56:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
@@ -238,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2022-07-03 01:45:26 -0700"
@@ -247,6 +398,18 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2022-07-03 01:52:13 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
@@ -268,21 +431,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2022-07-03 01:45:26 -0700"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2022-07-03 01:58:16 -0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2022-07-03 01:45:26 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2022-07-03 01:58:16 -0700"
     },
     "done": true
   },
@@ -301,6 +482,30 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-07-03 01:56:45 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2022-07-03 05:51:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-07-03 05:55:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2022-07-03 04:54:51 -0700"
     },
     "done": true
   },
