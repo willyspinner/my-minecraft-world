@@ -569,6 +569,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2022-08-06 15:35:33 -0700",
+      "minecraft:zombie": "2022-08-06 15:35:03 -0700"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-07-03 22:50:01 -0700"
@@ -1043,6 +1050,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-08-06 15:35:03 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2022-07-24 12:07:20 -0700"
@@ -1062,6 +1075,7 @@
       "minecraft:taiga": "2022-07-03 01:46:29 -0700",
       "minecraft:beach": "2022-07-03 01:51:47 -0700",
       "minecraft:river": "2022-07-03 01:51:57 -0700",
+      "minecraft:wooded_mountains": "2022-08-06 14:02:57 -0700",
       "minecraft:wooded_hills": "2022-07-03 01:47:14 -0700",
       "minecraft:plains": "2022-07-03 01:45:26 -0700"
     },
@@ -1172,6 +1186,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2022-07-24 12:07:20 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-08-06 14:15:26 -0700"
     },
     "done": true
   },
@@ -1418,6 +1438,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-07-04 15:42:08 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2022-08-05 20:57:35 -0700"
     },
     "done": true
   },
@@ -1832,6 +1858,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-07-03 23:40:40 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-08-06 13:16:04 -0700"
     },
     "done": true
   },
@@ -2306,6 +2338,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-07-30 20:26:52 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2022-08-06 15:39:53 -0700"
     },
     "done": true
   },
