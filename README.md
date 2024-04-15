@@ -8,15 +8,18 @@ Functional things
 - ZEZE experience (music maker)
 - Air Force Base with working runway lights, emergency alert system, missile silo, elytra silo
 - Spleefing stadium
-- Airbase
+- secret underground nightclub with hidden entrance from toilet
+- LA Apartment with functioning elevator
+- Space Shuttle Rocket with functioning elevators to rocket access
 
 Other landmarks
+- bar
+- hotel
+- city hall
 - Naval base (submarines - submerged & in pen, destroyers)
 - Indonesian National Monument
-- Space Rocket
 - pixel art of my friends
 - Tennis court
-- LA Apartment
 - SF Apartment
 - IB workplace
 - My house where I grew up
