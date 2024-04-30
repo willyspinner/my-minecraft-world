@@ -174,3 +174,15 @@
 			#Range: 0.001 ~ 10.0
 			max_speed = 0.85
 
+		[car.parts.small_tank]
+			#Range: 100 ~ 100000
+			max_fuel = 500
+
+		[car.parts.medium_tank]
+			#Range: 100 ~ 100000
+			max_fuel = 1000
+
+		[car.parts.large_tank]
+			#Range: 100 ~ 100000
+			max_fuel = 1500
+
