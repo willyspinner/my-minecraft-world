@@ -2,6 +2,9 @@
 [server]
 	#If true, enables camera recoil when firing a weapon
 	enableCameraRecoil = true
+	#The maximum amount of cooldown time remaining before the server will accept another shoot packet from a client. This allows for a litle slack since the server may be lagging
+	#Range: 75 ~ 1000
+	cooldownThreshold = 75
 
 	#Stun Grenade related properties
 	[server.grenade]
@@ -26,4 +29,11 @@
 		#The maximum distance weapons can be heard by players.
 		#Range: 0.0 ~ 1.7976931348623157E308
 		gunShotMaxDistance = 100.0
+		#The maximum distance reloading can be heard by players.
+		#Range: 0.0 ~ 1.7976931348623157E308
+		reloadMaxDistance = 24.0
+
+	[server.experimental]
+		#Forces all attachments to be dyeable regardless if they have an affect on the model. This is useful if your server uses custom models for attachments and the models have dyeable elements
+		forceDyeableAttachments = false
 
